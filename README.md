@@ -11,6 +11,63 @@ Alternatively, you can copy and paste this referral code during signup:
 
 **Shared by [Bhavin Gajjar](https://github.com/bhavingajjar)** — available for developers worldwide. Use this code from anywhere in the world to unlock Cursor Pro at half price for your first month.
 
+[![Cursor Pro Discount](https://img.shields.io/badge/Cursor_Pro-50%25_OFF-brightgreen?style=for-the-badge)](https://cursor.com/referral?code=QV8RILYPYJNA)
+[![Referral Code](https://img.shields.io/badge/Code-QV8RILYPYJNA-blue?style=for-the-badge)](https://cursor.com/referral?code=QV8RILYPYJNA)
+[![Works Worldwide](https://img.shields.io/badge/Works-Worldwide-orange?style=for-the-badge)](https://github.com/bhavingajjar/cursor-pro-coupon-code)
+[![GitHub Stars](https://img.shields.io/github/stars/bhavingajjar/cursor-pro-coupon-code?style=for-the-badge)](https://github.com/bhavingajjar/cursor-pro-coupon-code)
+
+> ⭐ **Help others save money!** If this code worked for you, [star this repo](https://github.com/bhavingajjar/cursor-pro-coupon-code) and share it with your dev friends on GitHub, Reddit, Discord, or LinkedIn.
+
+---
+
+## ⚡ Quick Reference (Copy & Share)
+
+| Item | Details |
+|------|---------|
+| **Discount** | 50% OFF first month of Cursor Pro |
+| **Referral Link** | https://cursor.com/referral?code=QV8RILYPYJNA |
+| **Promo Code** | `QV8RILYPYJNA` |
+| **Shared By** | [Bhavin Gajjar](https://github.com/bhavingajjar) |
+| **Works In** | All countries — USA, India, China, Brazil, Korea, Europe & more |
+| **Valid For** | New & existing users upgrading to Pro |
+| **GitHub Repo** | https://github.com/bhavingajjar/cursor-pro-coupon-code |
+
+---
+
+## 💰 Cursor Pro Pricing With This Code (2026)
+
+| Plan | Regular Price | **Your Price (1st Month)** | You Save |
+|------|---------------|---------------------------|----------|
+| **Pro** | $20/month | **$10/month** | $10 |
+| Pro+ | $60/month | **$30/month** | $30 |
+| Ultra | $200/month | **$100/month** | $100 |
+
+> Discount applies to your **first month** when you sign up through the referral link or enter code `QV8RILYPYJNA` at checkout. Annual billing on Cursor also saves 20% separately — [see official pricing](https://cursor.com/pricing).
+
+**What you get with Cursor Pro ($20 plan):**
+- Unlimited Tab completions (AI autocomplete)
+- Unlimited Auto mode (Agent without burning credits fast)
+- $20 monthly credit pool for premium models (Claude, GPT, Gemini)
+- Full codebase indexing & chat
+- Cloud Agents & Background Agents
+- MCP, skills, hooks & Bugbot access
+- Frontier AI models for serious development
+
+---
+
+## 📑 Table of Contents
+
+- [Languages (10 Languages)](#-languages)
+- [Why Upgrade to Cursor Pro?](#-why-upgrade-to-cursor-pro)
+- [How to Redeem](#️-how-to-redeem-your-cursor-promo-code)
+- [Available Worldwide](#-available-worldwide)
+- [FAQ](#-frequently-asked-questions-faq)
+- [Share This Code](#-share-this-code--help-others-save)
+- [Who Should Use Cursor Pro?](#-who-should-use-cursor-pro)
+- [Cursor vs Other AI Editors](#-cursor-vs-other-ai-code-editors)
+- [Pro Tips to Save More](#-pro-tips-save-more-on-cursor)
+- [SEO Keywords](#-seo-keywords-tags)
+
 ---
 
 ## 🌐 Languages
@@ -161,6 +218,158 @@ Cursor is the world's leading AI code editor, built on top of VS Code. With the 
 ## 🌍 Available Worldwide
 
 This referral code works for developers across the globe — whether you're in the **United States**, **India**, **Europe**, **China**, **South Korea**, **Brazil**, **Latin America**, or anywhere else. Share it with your friends, teammates, and fellow developers so they can also save 50% on their first month of Cursor Pro.
+
+**Popular regions using this code:**
+🇺🇸 USA · 🇮🇳 India · 🇨🇳 China · 🇧🇷 Brazil · 🇰🇷 South Korea · 🇬🇧 UK · 🇩🇪 Germany · 🇫🇷 France · 🇪🇸 Spain · 🇲🇽 Mexico · 🇨🇦 Canada · 🇦🇺 Australia · 🇯🇵 Japan · 🇸🇬 Singapore · 🇦🇪 UAE · 🇳🇬 Nigeria · 🇵🇰 Pakistan · 🇧🇩 Bangladesh · 🇮🇩 Indonesia · 🇵🇭 Philippines · 🇹🇷 Turkey · 🇵🇱 Poland · 🇳🇱 Netherlands · 🇮🇹 Italy · 🇦🇷 Argentina · 🇨🇴 Colombia · 🇻🇳 Vietnam · 🇹🇭 Thailand · 🇿🇦 South Africa
+
+---
+
+## ❓ Frequently Asked Questions (FAQ)
+
+### Does this Cursor Pro promo code really work?
+Yes. `QV8RILYPYJNA` is an **official Cursor referral code** shared by [Bhavin Gajjar](https://github.com/bhavingajjar). Click the link or enter the code at checkout — the **50% discount on your first month** is applied automatically.
+
+### Is this code free to use?
+**100% free.** No hidden fees. You only pay Cursor's discounted subscription price for your first month.
+
+### Which countries can use this referral code?
+**Every country worldwide.** Cursor Pro is available globally. Developers from India, USA, China, Brazil, Korea, Europe, Africa, Middle East, and all other regions can use `QV8RILYPYJNA`.
+
+### Can I use this if I already have a Cursor account?
+Yes. Existing users who upgrade to **Pro, Pro+, or Ultra** through the referral link can still get the first-month discount.
+
+### How much do I actually save?
+| Plan | Normal | With Code | Savings |
+|------|--------|-----------|---------|
+| Pro | $20 | $10 | **50%** |
+| Pro+ | $60 | $30 | **50%** |
+| Ultra | $200 | $100 | **50%** |
+
+### Is there a Cursor Pro free trial?
+Cursor offers a limited free **Hobby** plan. New users may also get a short Pro trial. This referral code gives an extra **50% off your first paid month** — one of the best deals available in 2026.
+
+### Are students eligible for more discounts?
+Yes! Verified students can get **1 year of Cursor Pro free** via Cursor's student program ([cursor.com/students](https://cursor.com/students)). You can still use this referral code if you're not eligible for the student offer.
+
+### How long is this promo code valid?
+Referral codes like `QV8RILYPYJNA` stay active as long as Cursor's referral program runs. Bookmark this page: https://github.com/bhavingajjar/cursor-pro-coupon-code
+
+### What if the discount doesn't apply?
+1. Make sure you used this exact link: https://cursor.com/referral?code=QV8RILYPYJNA
+2. Select a **paid plan** (Pro, Pro+, or Ultra) — Hobby is free and has no discount
+3. Check that the code `QV8RILYPYJNA` appears at checkout
+4. Try a different browser or incognito window
+
+### Is Cursor Pro worth $20/month?
+For most developers, **yes**. Unlimited AI Tab completion alone saves hours every week. Pro is the most popular plan and covers daily coding, debugging, refactoring, and AI Agent tasks for the majority of users.
+
+---
+
+## 📢 Share This Code & Help Others Save
+
+Copy and paste these ready-made messages to help this code reach developers worldwide:
+
+**Twitter / X:**
+```
+🚀 Get 50% OFF your first month of Cursor Pro!
+Best AI code editor for developers.
+Code: QV8RILYPYJNA
+👉 https://cursor.com/referral?code=QV8RILYPYJNA
+#Cursor #CursorPro #AIDev #Coding #PromoCode
+```
+
+**LinkedIn:**
+```
+Developers — save 50% on your first month of Cursor Pro (AI-powered code editor).
+
+Referral code: QV8RILYPYJNA
+Link: https://cursor.com/referral?code=QV8RILYPYJNA
+
+Works worldwide. Shared by Bhavin Gajjar.
+GitHub: https://github.com/bhavingajjar/cursor-pro-coupon-code
+```
+
+**Reddit / Discord / Telegram:**
+```
+Cursor Pro 50% OFF first month | Code: QV8RILYPYJNA
+https://cursor.com/referral?code=QV8RILYPYJNA
+Verified referral — works globally. Repo: github.com/bhavingajjar/cursor-pro-coupon-code
+```
+
+**WhatsApp / iMessage:**
+```
+Hey! Use my Cursor Pro referral for 50% off your first month 🎉
+Code: QV8RILYPYJNA
+Link: https://cursor.com/referral?code=QV8RILYPYJNA
+```
+
+---
+
+## 👨‍💻 Who Should Use Cursor Pro?
+
+| You Are... | Why Cursor Pro Helps |
+|------------|---------------------|
+| **Student / Learner** | Learn faster with AI explanations, code generation & debugging help |
+| **Freelancer** | Ship client projects faster, reduce boilerplate coding time |
+| **Startup Founder** | Build MVPs quickly without hiring extra developers |
+| **Full-Stack Developer** | Index entire repos, refactor across files, run AI Agents |
+| **Mobile Developer** | Generate Swift, Kotlin, Flutter, React Native code instantly |
+| **DevOps / SRE** | Write configs, scripts, Dockerfiles, CI/CD pipelines with AI |
+| **Data Scientist** | Python, SQL, Jupyter notebooks with smart autocomplete |
+| **Open Source Contributor** | Understand unfamiliar codebases quickly with codebase chat |
+
+---
+
+## ⚔️ Cursor vs Other AI Code Editors
+
+| Feature | Cursor Pro | GitHub Copilot | Windsurf | VS Code + Extensions |
+|---------|-----------|----------------|----------|---------------------|
+| AI Tab Completion | ✅ Unlimited | ✅ Limited on free | ✅ Yes | ⚠️ Varies |
+| Full Codebase Chat | ✅ Yes | ⚠️ Limited | ✅ Yes | ❌ No |
+| AI Agent Mode | ✅ Yes | ⚠️ Limited | ✅ Yes | ❌ No |
+| Background Agents | ✅ Yes | ❌ No | ⚠️ Limited | ❌ No |
+| Built on VS Code | ✅ Yes | ✅ Extension | ✅ Fork | ✅ Native |
+| Multi-Model (Claude, GPT, Gemini) | ✅ Yes | ⚠️ GitHub models | ✅ Yes | ⚠️ Varies |
+| **50% Off 1st Month** | ✅ **Use QV8RILYPYJNA** | ❌ | ❌ | ❌ |
+
+> **Verdict:** Cursor Pro is the most complete AI-native IDE in 2026. With code `QV8RILYPYJNA`, you try it for half price.
+
+---
+
+## 💡 Pro Tips: Save More on Cursor
+
+1. **Use this referral first** — 50% off month 1 with `QV8RILYPYJNA`
+2. **Students** — Apply for [1 year free Pro](https://cursor.com/students) with your `.edu` email
+3. **Annual billing** — Save an extra 20% by paying yearly on [cursor.com/pricing](https://cursor.com/pricing)
+4. **Use Auto mode** — Unlimited on Pro; saves your premium credit pool
+5. **Set a spend limit** — Go to Settings → Billing to avoid surprise overages
+6. **Share this repo** — Help other devs save and grow this community resource
+
+---
+
+## ⭐ Support This Project
+
+If this referral code saved you money:
+
+1. ⭐ **[Star this repository](https://github.com/bhavingajjar/cursor-pro-coupon-code)** on GitHub
+2. 🔗 **Share** the link with your developer network
+3. 🍴 **Fork** this repo and add it to your GitHub profile README
+4. 💬 **Tell friends** about code `QV8RILYPYJNA`
+
+Every star and share helps more developers worldwide find this working Cursor Pro discount!
+
+---
+
+## 🔗 Official Cursor Links
+
+| Resource | Link |
+|----------|------|
+| Cursor Website | https://cursor.com |
+| Download Cursor | https://cursor.com/download |
+| Official Pricing | https://cursor.com/pricing |
+| Student Free Year | https://cursor.com/students |
+| Documentation | https://docs.cursor.com |
+| **This Referral (50% OFF)** | https://cursor.com/referral?code=QV8RILYPYJNA |
 
 ---
 
